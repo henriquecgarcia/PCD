@@ -1,6 +1,0 @@
-Serial: 8.9863346 seconds
-2 threads: 10.8913104 seconds
->> 4.829978 seconds
-4 threads: 12.0737848 seconds
-8 threads: 17.2571928 seconds
-16 threads: 23.6166502 seconds
